@@ -1,0 +1,14 @@
+[
+  {
+    "name": "ОС",
+    "number": "2",
+    "grade": "B",
+    "status": "не здано"
+  },
+  {
+    "name": "Java",
+    "number": "3",
+    "grade": "A",
+    "status": "здано"
+  }
+]
